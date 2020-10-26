@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1541698591 source:c:\users\erick\desktop\trabalho atualizado\trabalho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1541792483 source:c:\users\pichau\desktop\gerenciador-campeonato.futsal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
